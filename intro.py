@@ -18,9 +18,8 @@ print("Hello world")
 # 2. This is a variable
 
 message = "Level Two"
-
 # Add a line below to print this variable
-
+print(message)
 # GO!
 
 # 3. The variable above is called a string

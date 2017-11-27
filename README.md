@@ -1,3 +1,7 @@
+![LOGO](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
+
+## Student Fork
+ This fork of the project is for me to learn python and may contain spoilers 0.o
 # Python Intro
 
 A Python learning tool with beginner exercises in using variables, data structures and basic control flow.
